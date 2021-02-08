@@ -1,0 +1,2 @@
+# Multi-Layer-Nueral-Network-From-Scratch
+Using Python programming language to build a multi layer neural network with four layers for image classification problem : input layer, output layer and two hidden layers. The input layer have 784 (+ one bias) units representing 784 pixel values and output layer have 10 units for representing 10 different classes. Here I had chosen 20 (+ one bias) units in the hidden layer1 and 5(+one bias) in hidden layer2.
